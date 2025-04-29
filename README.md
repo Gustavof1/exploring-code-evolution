@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/home-assistant/core
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Functions: def vs. async def
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: Existe um crescimento claro no uso de async def ao longo do tempo. Esse comportamento indica uma modernização da base de código, aderindo mais funções assíncronas, o que faz muito sentido para um projeto como o Home Assistant, que lida intensamente com dispositivos conectados na rede. O uso de async def permite melhor paraleleos e maior escalabilidade nessas situações.
 
 
 
